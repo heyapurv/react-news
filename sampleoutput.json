@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 1112,
+    "articles": [
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Haje Jan Kamps",
+    "title": "Sample Series A pitch deck: BusRight's $7M deck | TechCrunch",
+    "description": "BusRight is a school-bus management platform. The company's pitch deck is well-designed and full of careful touches.",
+    "url": "https://techcrunch.com/2023/08/25/sample-series-a-pitch-deck-busright/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/Busright-PDT-Cover.jpg?resize=1200,675",
+    "publishedAt": "2023-08-25T16:01:28Z",
+    "content": "As soon as I saw the cover slide for BusRight, I knew I was looking at something really interesting. BusRight is a school-bus management platform that aims to improve efficiency and safety by, among … [+4176 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Carly Page",
+    "title": "MOVEit, the biggest hack of the year, by the numbers | TechCrunch",
+    "description": "The mass-exploitation of MOVEit file transfer servers — the largest hack of the year so far — now affects at least 60 million people.",
+    "url": "https://techcrunch.com/2023/08/25/moveit-mass-hack-by-the-numbers/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/numbers-pattern-getty.jpg?resize=1200,811",
+    "publishedAt": "2023-08-25T15:46:00Z",
+    "content": "The mass-exploitation of MOVEit Transfer software has rapidly cemented itself as the largest hack of the year so far. While the full impact of the attack will likely remain untold for months to come,… [+5355 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Rebecca Bellan",
+    "title": "Polestar 4 to feature Mobileye's hands-off, eyes-off driving tech | TechCrunch",
+    "description": "Swedish electric vehicle maker Polestar wants to bring Mobileye's Chauffeur, a hands-off, eyes-off autonomous driving technology to its Polestar 4",
+    "url": "https://techcrunch.com/2023/08/25/polestar-4-to-feature-mobileyes-hands-off-eyes-off-driving-tech/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/Hero.jpeg?w=1024",
+    "publishedAt": "2023-08-25T15:44:28Z",
+    "content": "Swedish electric vehicle maker Polestar wants to bring Mobileye’s Chauffeur, a hands-off, eyes-off autonomous driving technology to its Polestar 4 electric SUV coupe.\r\nThe Polestar 4, which launched … [+2259 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kyle Wiggers",
+    "title": "Qase raises $7.2M to help companies manage their software tests | TechCrunch",
+    "description": "Qase, a platform designed to help companies manage their automated and manual software tests, has raised $7.2 million in a funding round.",
+    "url": "https://techcrunch.com/2023/08/25/qase-raises-7-2m-to-help-companies-manage-their-software-tests/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1439425791-1.jpg?resize=1200,613",
+    "publishedAt": "2023-08-25T15:01:25Z",
+    "content": "Qase, an Austin-based platform for managing software quality assurance testing and reporting, today announced that it raised $7.2 million in a Series A round led by Chrome Capital with participation … [+4512 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Lauren Simonds",
+    "title": "Alloy, Synctera and Unit discuss the future of embedded finance at TC Disrupt | TechCrunch",
+    "description": "Come to the Fintech Stage at TechCrunch Disrupt 2023 to hear new wave finance infrastructure companies discuss banking — reinvented.",
+    "url": "https://techcrunch.com/2023/08/25/alloy-synctera-and-unit-discuss-the-future-of-embedded-finance-at-tc-disrupt/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/tc_disrupt_2023_speaker-carousel_Spiekerman_Swoverland_Hazlehurst_1920x1080.png?resize=1200,675",
+    "publishedAt": "2023-08-25T15:01:02Z",
+    "content": "Banking-as-a-service (BaaS), embedded finance and open banking are among the hottest topics in fintech today. The promise? Make opening a bank account, storing money, receiving a payment card and len… [+3848 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Aria Alamalhodaei",
+    "title": "Orbital Composites lands new government contracts to advance in-space manufacturing | TechCrunch",
+    "description": "Orbital Composites is expanding its in-space servicing, assembly and manufacturing development work with three new SBIR contracts.",
+    "url": "https://techcrunch.com/2023/08/25/orbital-composites-lands-new-government-contracts-to-advance-in-space-manufacturing/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/Orbital-rocket-nozzle-demo-at-ORNL.png?resize=1200,636",
+    "publishedAt": "2023-08-25T15:00:31Z",
+    "content": "Advanced manufacturing startup Orbital Composites is expanding its in-space servicing, assembly and manufacturing development work with three new Small Business Innovation Research (SBIR) contracts v… [+3124 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Alex Wilhelm",
+    "title": "Startups that are Ramp-ing up, and startups that are full of sh** | TechCrunch",
+    "description": "This week on Equity, we're talking through Nvidia's impressive earnings report, raises from Ramp and AI-powered writing tool, Lex, Northvolt's move to North America, the story behind Better.com's SPAC, and startups that are full of crap - literally.",
+    "url": "https://techcrunch.com/2023/08/25/startups-that-are-ramp-ing-up-and-startups-that-are-full-of-crap/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/equity-podcast-2019-phone.webp?w=680",
+    "publishedAt": "2023-08-25T14:05:29Z",
+    "content": "Listen here or wherever you get your podcasts.\r\nHello and welcome back to Equity, a podcast about the business of startups, where we unpack the numbers and nuance behind the headlines.\r\nThis is our F… [+556 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Sarah Perez",
+    "title": "YouTube to support RSS uploads for podcasters by year-end, plus private feeds in YouTube Music | TechCrunch",
+    "description": "YouTube is growing its commitment to hosting podcasts on its platform. This week, at the Podcast Movement conference, YouTube product lead Steve McLendon",
+    "url": "https://techcrunch.com/2023/08/25/youtube-to-support-rss-uploads-for-podcasters-by-year-end-plus-private-feeds-in-youtube-music/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/youtube-ios-app.webp?w=1024",
+    "publishedAt": "2023-08-25T14:05:19Z",
+    "content": "YouTube is growing its commitment to hosting podcasts on its platform. This week, at the Podcast Movement conference, YouTube product lead Steve McLendon confirmed the platform will be rolling out su… [+2639 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Jagmeet Singh",
+    "title": "Byju's exposed sensitive student data, including loan details",
+    "description": "Byju's, the edtech giant and India's most valuable startup, has fixed a server-side misconfiguration that was exposing the sensitive data of its students...",
+    "url": "https://techcrunch.com/2023/08/25/byjus-student-data-exposed/",
+    "urlToImage": "https://media.zenfs.com/en/techcrunch_350/b99dee0beb9b9a42b83cb7cc9a3f68c1",
+    "publishedAt": "2023-08-25T13:50:03Z",
+    "content": "Byju's, the edtech giant and India's most valuable startup, has fixed a server-side misconfiguration that was exposing the sensitive data of its students.\r\nThe Indian startup exposed some students' n… [+3802 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": "Ioanna Lykiardopoulou",
+    "title": "New discovery could lead to faster-charging and longer-range EVs",
+    "description": "In a breakthrough for the EV industry, researchers have discovered a way to prevent a damaging and potentially dangerous side effect that can occur during fast charging: lithium plating. The phenomenon takes place when lithium ions build up on the surface of …",
+    "url": "https://thenextweb.com/news/new-discovery-could-lead-faster-charging-longer-range-evs",
+    "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-13-2.jpg&signature=523c45332b8d1338370820560d698da8",
+    "publishedAt": "2023-08-25T13:39:04Z",
+    "content": "In a breakthrough for the EV industry, researchers have discovered a way to prevent a damaging and potentially dangerous side effect that can occur during fast charging: lithium plating.\r\nThe phenome… [+2073 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kyle Wiggers",
+    "title": "Luxury Presence, which builds marketing tools for realtors, raises $19.2M | TechCrunch",
+    "description": "Luxury Presence, a startup building tools to help realtors market their properties, has raised $19.2 million in venture capital.",
+    "url": "https://techcrunch.com/2023/08/25/luxury-presence-which-builds-marketing-tools-for-realtors-raises-19-2m/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-668292928.jpg?resize=1200,988",
+    "publishedAt": "2023-08-25T13:00:55Z",
+    "content": "Real estate marketing is no walk in the park. Not only do realtors have to weather market volatility, but they need to meet buyers where they shop — creating compelling marketing experiences while ke… [+2742 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Natasha Lomas",
+    "title": "All hail the new EU law that lets social media users quiet quit the algorithm | TechCrunch",
+    "description": "Internet users in the European Union are logging on to a quiet revolution on mainstream social networks today: The ability to say 'no thanks' to being Internet users in the European Union are logging on to a quiet revolution on mainstream social networks toda…",
+    "url": "https://techcrunch.com/2023/08/25/quiet-qutting-ai/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-553927883-1.jpg?resize=1200,813",
+    "publishedAt": "2023-08-25T11:55:46Z",
+    "content": "Internet users in the European Union are logging on to a quiet revolution on mainstream social networks today: The ability to say ‘no thanks’ to being attention hacked by AI.\r\nThanks to the bloc’s Di… [+7819 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": "Thomas Macaulay",
+    "title": "Autonomous cars worse at detecting children and dark-skinned pedestrians, study finds",
+    "description": "AI has a notorious history of biases, from facial recognition systems misidentifying Black people to chatbots admiring Hitler. In some settings, the outcomes can be deadly. A case in point was exposed this week. According to new research, the pedestrian detec…",
+    "url": "https://thenextweb.com/news/driverless-cars-pedestrian-detection-age-race-biases",
+    "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-3-3.jpg&signature=ef76f4587ef01cac7b477f0ec98be948",
+    "publishedAt": "2023-08-25T11:30:51Z",
+    "content": "AI has a notorious history of biases, from facial recognition systems misidentifying Black people to chatbots admiring Hitler. In some settings, the outcomes can be deadly.\r\nA case in point was expos… [+2607 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": "Ioanna Lykiardopoulou",
+    "title": "Google expands transparency for ads, content, policy as EU’s new rules kick in",
+    "description": "Google will provide more information on targeted advertising, content decisions, and product policies as it strives to comply with the EU’s new content moderation rules, the tech giant said on Thursday. Known as the Digital Services Act (DSA), the bloc’s land…",
+    "url": "https://thenextweb.com/news/google-expands-transparency-ads-content-policy-eu-new-rules",
+    "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-13-1.jpg&signature=3b849e9e9f00e0ad099f86ebadc4d627",
+    "publishedAt": "2023-08-25T09:50:04Z",
+    "content": "Google will provide more information on targeted advertising, content decisions, and product policies as it strives to comply with the EUs new content moderation rules, the tech giant said on Thursda… [+1721 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Manish Singh",
+    "title": "Zepto becomes India's first 2023 unicorn with $200 million fresh funding | TechCrunch",
+    "description": "Instant grocery delivery startup Zepto has raised $200 million in a new funding round at a valuation of $1.4 billion, it said Friday, at a time when most Zepto has raised $200 million in a new funding round at a valuation of $1.4 billion, becoming the first I…",
+    "url": "https://techcrunch.com/2023/08/25/zepto-becomes-india-first-2023-unicorn-with-200-million-fresh-funding/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/zepto-unicorn-round.jpg?resize=1200,698",
+    "publishedAt": "2023-08-25T08:26:11Z",
+    "content": "Instant grocery delivery startup Zepto has raised $200 million in a new funding round at a valuation of $1.4 billion, it said Friday, at a time when most other firms in the category have either died … [+3850 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "Pixilio The Ultimate AI Image Generator: Lifetime Subscription for $39",
+    "description": "Expires August 25, 2123 23:59 PST\n\n\n\n\n Buy now and get 88% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nPixilio is an AI image generator that simplifies the process of creating high-quality, custom images. With advanced machine l…",
+    "url": "https://deals.thenextweb.com/sales/pixilio-the-ultimate-ai-image-generator-lifetime-subscription-2?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp2.stackassets.com/ccbbf24bb07b23fdaf4be7143d1cca80fd03a3d3/store/c329a6fbbd58cfc4a35b77481a556676b85c6d041a052ce7778ee2401fea/sale_322438_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Pixilio is an AI image generator that simplifies the process of creating high-quality, custom images. With advanced machine learning algorithms, Pixilio is the next generation of image generation tec… [+1359 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "OneAir Elite Plan: Lifetime Subscription (Save on Business, First, Premium Class Flights, Hotels & More!) for $109",
+    "description": "Expires August 26, 2123 06:00 PST\n\n\n\n\n Buy now and get 86% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nLooking for a luxurious travel experience at an affordable price? \n\nTravel in style and comfort, without breaking the bank. T…",
+    "url": "https://deals.thenextweb.com/sales/oneair-elite-plan-lifetime-subscription-save-on-business-first-premium-class-flights-hotels-more?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp3.stackassets.com/cf45a54aa35ad942d62acb456c15488335b69f60/store/96d06a1f92687d769e577605119b1ed96a32ce9bc58f43f573dad795e89a/product_338970_product_shots1.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Looking for a luxurious travel experience at an affordable price? \r\nTravel in style and comfort, without breaking the bank. Treat yourself to a luxurious experience and enjoy all the perks that come … [+4279 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "Prism Drive Secure Cloud Storage: Lifetime Subscription (20TB) for $99",
+    "description": "Expires August 25, 2123 07:00 PST\n\n\n\n\n Buy now and get 93% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nFree up space on your phone, tablet, laptop, or home computer.\n\nKeep all your important files securely in one place. Easily s…",
+    "url": "https://deals.thenextweb.com/sales/prism-drive-secure-cloud-storage-lifetime-subscription-20tb?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp1.stackassets.com/9ea4af42bc08395a7fe532a0406b845f043c073b/store/dc9e01f33bf1b4da358cc3c32fffc4dd21c5809e3c6b646ead523cced081/sale_322844_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Free up space on your phone, tablet, laptop, or home computer.\r\nKeep all your important files securely in one place. Easily share large files, like video, graphics, images, and audio. Access files fr… [+2113 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "FastestVPN: Lifetime Subscription (10 Devices) for $39",
+    "description": "Expires August 26, 2123 06:00 PST\n\n\n\n\n Buy now and get 88% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nIn today's age of hackers and spies, it's absolutely essential to protect your browsing activity by using a VPN. FastestVPN o…",
+    "url": "https://deals.thenextweb.com/sales/fastestvpn-lifetime-subscription-10-devices?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp0.stackassets.com/97d54e51325b6091948dd65fce164d72d3ffcea9/store/8d13abf3aca2c6ce60f4c9a75015e9d81ef8318f91e0ee4401dbf6c0d083/sale_16809_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "In today's age of hackers and spies, it's absolutely essential to protect your browsing activity by using a VPN. FastestVPN offers a smart, easy-to-use service for all devices including Windows, Mac,… [+1712 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "ChatGPT WordPress Plugin: Lifetime License for $59",
+    "description": "Expires August 25, 2123 23:59 PST\n\n\n\n\n Buy now and get 79% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nEasily add the power of ChatGPT\n to your WordPress website!\n\nWhen you upload this ChatGPT WordPress plugin to your website you can se…",
+    "url": "https://deals.thenextweb.com/sales/chatgpt-wordpress-plugin-lifetime-license?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp3.stackassets.com/feb54fa5f4c05b5e85c6acac801b616df9f5a5d6/store/3b7b45305016cc42173b498332477ef8c359c75ec20674b2c6bff296a83b/sale_320551_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Easily add the power of ChatGPT\r\n to your WordPress website!\r\nWhen you upload this ChatGPT WordPress plugin to your website you can select between making the capabilities of ChatGPT available on the … [+1360 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "Microsoft Windows 11 Pro for $39",
+    "description": "Expires August 25, 2123 23:59 PST\n\n\n\n\n Buy now and get 79% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nPlease check all system requirements before purchasing. Check your computer compatibility with Windows 11 here This version is designed for PCs that …",
+    "url": "https://deals.thenextweb.com/sales/microsoft-windows-11-pro-4?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp1.stackassets.com/61730776bb471811c3f02e53bfa4686e9cc30ab4/store/bfbd9ffee028dfabe505787c4ae86d0223767fe919f7e6d096257748a721/sale_321113_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Please check all system requirements before purchasing. Check your computer compatibility with Windows 11 hereThis version is designed for PCs that need a new license for Windows and meet the minimum… [+2857 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "Scribbyo AI: Lifetime Subscription (Gold: 1M Words & 1K Images/Year) for $99",
+    "description": "Expires August 25, 2123 23:59 PST\n\n\n\n\n Buy now and get 94% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nAre you exhausted from spending endless hours crafting content for your website or social media channels? Discover Scribbyo, …",
+    "url": "https://deals.thenextweb.com/sales/scribbyo-ai-lifetime-subscription-gold-1m-words-1k-images-year?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp1.stackassets.com/dc4a7cb3a117ed3929dc8e5ac306df07eb21dcfe/store/cd5f5bb8aca8d4f0b387b4b2ea2f16eac0607e635cee6e71a9b4cbe8ad7e/product_338067_product_shots1.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Are you exhausted from spending endless hours crafting content for your website or social media channels? Discover Scribbyo, the innovative AI content generator set to transform the way you produce c… [+4437 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "Jillian Michaels: The Fitness App (Lifetime Subscription) for $199",
+    "description": "Expires August 26, 2123 05:00 PST\n\n\n\n\n Buy now and get 55% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nJillian Michaels is the foremost fitness expert in the world and a renowned life coach. Committed to helping people be the be…",
+    "url": "https://deals.thenextweb.com/sales/jillian-michaels-the-fitness-app-lifetime-subscription-2?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp3.stackassets.com/14b7a6454fc5f755296e9e6e929b31d161b0c412/store/6e29cb50d15540de91d5593b3c58a83e49ee144ada4b0740d6eb873bd7c8/sale_162188_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Jillian Michaels is the foremost fitness expert in the world and a renowned life coach. Committed to helping people be the best versions of themselves and live their happiest and healthiest lives, Mi… [+1460 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "Tykr Stock Screener: Pro Plan Lifetime Subscription for $119",
+    "description": "Expires August 25, 2123 23:59 PST\n\n\n\n\n Buy now and get 86% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nInvesting should be fun, not a headache. If you're not already an expert, it can be hard to know where to start—and all too e…",
+    "url": "https://deals.thenextweb.com/sales/tykr-stock-screener-pro-plan-lifetime-subscription?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp2.stackassets.com/75349017d024fc47a72c09878c2564592501e915/store/4f5e1f14e7f1d458471d8551f873e92b54792169796231bda5f2b6664947/sale_312315_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Investing should be fun, not a headache. If you're not already an expert, it can be hard to know where to startand all too easy to make mistakes and lose money. But investing doesn't have to be compl… [+1649 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "uTalk Language Learning: Lifetime Subscription (150+ Languages) for $89",
+    "description": "Expires August 26, 2123 06:00 PST\n\n\n\n\n Buy now and get 70% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nuTalk can help you start speaking like a native within minutes. Using the uTalk learning App you can listen to real native speakers t…",
+    "url": "https://deals.thenextweb.com/sales/utalk-language-learning-lifetime-subscription-150-languages?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp2.stackassets.com/b42e8ff9dcbb4c2423f5b80040a9598faa4b775d/store/9d76baece20296165922fec99bcdbfc9dd6a61e08932ee964fceef6c4206/sale_21468_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "uTalk can help you start speaking like a native within minutes. Using the uTalk learning App you can listen to real native speakers to help you navigate through your next vacation or business trip. W… [+2529 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "8-in-1 MagLight Mini Super Bright Utility Flashlight (4-Pack) for $62",
+    "description": "Expires August 25, 2123 23:59 PST\n\n\n\n\n Buy now and get 41% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nStylish, ultra-portable, rechargeable, and multi-powered: choose any mode for any situation. These mini flashlights are super…",
+    "url": "https://deals.thenextweb.com/sales/8-in-1-maglight-mini-super-bright-utility-flashlight-4-pack-2?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp2.stackassets.com/426ece46d7fd06427572498a491ce9e3bebd2548/store/ceab33e250b8ea2540c4032dffcfa487ca2728f4c11230f67696c50d33ad/sale_xxxxx_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Stylish, ultra-portable, rechargeable, and multi-powered: choose any mode for any situation. These mini flashlights are super bright (800 lumens illumination at max) with 4 modes of brightness adjust… [+1318 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "Koofr Cloud Storage: Lifetime Subscription (1TB) for $139",
+    "description": "Expires August 25, 2123 07:00 PST\n\n\n\n\n Buy now and get 82% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nRunning out of storage space on your computer or smartphone is one of the most frustrating things we experience in our modern, digital world.…",
+    "url": "https://deals.thenextweb.com/sales/koofr-cloud-storage-lifetime-subscription-1tb?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp0.stackassets.com/7caff598a6e6a266cea0eb0070b4147b9c44e005/store/2dc5ac19b3ac0f22794ae211806036d7e157f5d59dd74f8bbbd1db75383e/sale_20793_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Running out of storage space on your computer or smartphone is one of the most frustrating things we experience in our modern, digital world. Constantly having to go through photos, videos, and other… [+1726 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "Prism Drive Secure Cloud Storage: Lifetime Subscription (10TB) for $89",
+    "description": "Expires August 26, 2123 05:00 PST\n\n\n\n\n Buy now and get 87% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nFree up space on your phone, tablet, laptop, or home computer.\n\nKeep all your important files securely in one place. Easily s…",
+    "url": "https://deals.thenextweb.com/sales/prism-drive-secure-cloud-storage-lifetime-subscription-10tb?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp0.stackassets.com/639140d0c296cd85446f009d849094829a02b845/store/2cfe14cab313e155639435c7a5fb6013e0ba4ea2252821fcdadd34222c43/sale_312662_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Free up space on your phone, tablet, laptop, or home computer.\r\nKeep all your important files securely in one place. Easily share large files, like video, graphics, images, and audio. Access files fr… [+1783 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "Speechnow™ True to Life AI Text to Speech: Lifetime Subscription for $29",
+    "description": "Expires August 25, 2123 23:59 PST\n\n\n\n\n Buy now and get 90% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nVideos without a good voiceover will not convert, and will not get you clicks, leads, traffic, or any sales! \n\nText to speech…",
+    "url": "https://deals.thenextweb.com/sales/speechnow-true-to-life-ai-text-to-speech-lifetime-subscription?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp2.stackassets.com/7f9dfc5623c48267418d61433ed7250981801a6c/store/d74f45522e13249d6d284c87833301734be716df106c775728908f3f5843/sale_314201_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Videos without a good voiceover will not convert, and will not get you clicks, leads, traffic, or any sales! \r\nText to speech enables brands to deliver an enhanced end-user experience while minimizin… [+1411 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "8-in-1 MagLight Mini Super Bright Utility Flashlight (2-Pack) for $35",
+    "description": "Expires August 26, 2123 06:00 PST\n\n\n\n\n Buy now and get 34% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nThese 8-in-1 mini flashlights are designed to fit in your backpack or pocket. They are super bright and strong enough to be u…",
+    "url": "https://deals.thenextweb.com/sales/8-in-1-maglight-mini-super-bright-utility-flashlight-2-packs?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp1.stackassets.com/cf290b297f74c6b233d5ed1ed8a98106a2e416de/store/c01ec34dd01db84ad1cbe324dfee559c64b0914769bc39e1eed72309ce62/sale_xxxxx_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "These 8-in-1 mini flashlights are designed to fit in your backpack or pocket. They are super bright and strong enough to be used in emergencies when you need reliable illumination. The 4 modes let yo… [+1363 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "iScanner App: Lifetime Subscription for $39",
+    "description": "Expires August 25, 2123 07:00 PST\n\n\n\n\n Buy now and get 33% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\niScanner is a #1 US-based scanning and document management tool that makes it easy to create PRO documents on the go. iScanne…",
+    "url": "https://deals.thenextweb.com/sales/iscanner-app-lifetime-subscription-2?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp1.stackassets.com/100b78e76ad2b2f1257a1025e1e0bf48eb63d528/store/a42d0c75077c6f39cebedb8db84d12cdab2d660f03deb0931ec643affd13/sale_297719_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "iScanner is a #1 US-based scanning and document management tool that makes it easy to create PRO documents on the go. iScanner allows you to work and study anywhere, even if you dont have access to a… [+2717 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "OnlineCourseHost: Lifetime Subscription (Pro Plan) for $199",
+    "description": "Expires August 26, 2123 06:00 PST\n\n\n\n\n Buy now and get 82% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nAre you looking for an affordable and super easy-to-use online course platform to host your online courses? OnlineCourseHost.…",
+    "url": "https://deals.thenextweb.com/sales/onlinecoursehost-lifetime-subscription-pro-plan?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp1.stackassets.com/73d4c89b72accb5101a668b0a4765ff29106024d/store/4153b0fee4290460fc6d387dda86ca2a6e243a5e3441951b6ba65fe4d045/product_327081_product_shots1.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Are you looking for an affordable and super easy-to-use online course platform to host your online courses? OnlineCourseHost.com is a white-label online course platform, that allows you to create and… [+4759 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "Sticky Password Premium: Lifetime Subscription for $29",
+    "description": "Expires August 26, 2123 06:00 PST\n\n\n\n\n Buy now and get 85% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nNo need to struggle with remembering long and complicated passwords. Sticky Password is your award-winning password managemen…",
+    "url": "https://deals.thenextweb.com/sales/sticky-password-premium-lifetime-subscription-6?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp1.stackassets.com/39000dd3a865ae3cdc3af666e560217f932e9f3c/store/bb08243aabaddd0663610bf4885946717fd2e3af176650238492c2612bcd/sale_322648_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "No need to struggle with remembering long and complicated passwords. Sticky Password is your award-winning password management and forms filler solution for Mac, Windows, iOS, and Android. This lifet… [+2531 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "PDF Converter Pro: Lifetime License for $29",
+    "description": "Expires August 23, 2123 08:00 PST\n\n\n\n\n Buy now and get 70% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nThis all-in-one PDF converter and creator software enables you to convert PDF documents into a variety of formats or processe…",
+    "url": "https://deals.thenextweb.com/sales/pdf-converter-pro-lifetime-license-2?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp1.stackassets.com/6b74c683bd34ef9f1c4a90638bf996674f1f6de7/store/9bff10e6bc777ce7d3a14ece380b33a30d57912c2b0ed12145fe7ac15b3d/sale_310326_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "This all-in-one PDF converter and creator software enables you to convert PDF documents into a variety of formats or processes and create PDF files from other formats in just a few clicks. The super … [+1663 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "Babbel Language Learning: Lifetime Subscription (All Languages) for $199",
+    "description": "Expires August 26, 2123 07:00 PST\n\n\n\n\n Buy now and get 66% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nLearn Spanish, French, Italian, German, and many more languages with Babbel, the #1 top-grossing language-learning app in the…",
+    "url": "https://deals.thenextweb.com/sales/babbel-language-learning-lifetime-subscription-all-languages-3?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp3.stackassets.com/a65e8a04fe5a4e254798cae0958c8562f5563582/store/beae911481ec853f0a8dde9495bce566a7f77bfcbd6e90bc9ecbc9f79566/product_147960_product_shots1.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Learn Spanish, French, Italian, German, and many more languages with Babbel, the #1 top-grossing language-learning app in the world. Developed by over 100 expert linguists, Babbel is helping millions… [+2451 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "Moho Animation Software: Pro Version 12.5 for $99",
+    "description": "Expires August 25, 2123 23:59 PST\n\n\n\n\n Buy now and get 75% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nMoho™ Pro is perfect for professionals looking for a more efficient alternative to traditional animation. With an intuitive i…",
+    "url": "https://deals.thenextweb.com/sales/moho-animation-software-pro-version-12-5?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp3.stackassets.com/35f8c62bc692d5537c87c04782397f20dbcda70d/store/58264dd9b29878d1ffa40818c4b2ed3b3ebc9878634fb4c17bb812029a93/sale_302635_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Moho Pro is perfect for professionals looking for a more efficient alternative to traditional animation. With an intuitive interface, a visual content library, and powerful features such as a bone ri… [+3050 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "aloSIM Mobile Data Traveler Lifetime eSim Plan: Pay $25 for $50 Credit for $24",
+    "description": "Expires August 26, 2123 06:00 PST\n\n\n\n\n Buy now and get 50% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nStay connected affordably in 170+ countries/regions with your own lifetime eSIM!\n\nAn eSIM is a digital SIM card. It's basical…",
+    "url": "https://deals.thenextweb.com/sales/alosim-mobile-data-traveler-lifetime-esim-plan-pay-25-for-50-credit?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp3.stackassets.com/73f5291e9d47d20e520637e011112a77caa92db8/store/d3aaac44ecc47259d6e0fc7284a3399a1b5f570d6e08fde13ba376d97cdd/sale_320404_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Stay connected affordably in 170+ countries/regions with your own lifetime eSIM!\r\nAn eSIM is a digital SIM card. It's basically just mobile data. Once it's activated on your device, it can connect yo… [+2534 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "Degoo Premium: Lifetime 10TB Backup Plan for $99",
+    "description": "Expires August 26, 2123 06:00 PST\n\n\n\n\n Buy now and get 90% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nUsers are juggling huge amounts of data, so it makes sense that you're taking care of that data responsibly. Degoo is an AI-b…",
+    "url": "https://deals.thenextweb.com/sales/degoo-premium-lifetime-10tb-backup-plan-2?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp2.stackassets.com/fba6fbf51dfa4abe5e95cf4fcc6d29acaed1944d/store/8c2121c299321a515111f56b71499d5817c3258601666178f4a9acba5d6a/sale_151452_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Users are juggling huge amounts of data, so it makes sense that you're taking care of that data responsibly. Degoo is an AI-based cloud storage that helps you rediscover your best photos. With Degoo,… [+1337 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "Headway Premium: Lifetime Subscription for $0",
+    "description": "Expires August 26, 2123 06:00 PST\n\n\n\n\n Buy now and get 100% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nAre you ready to take your reading to the next level? It's time to get personal with your reading.\n\nHeadway is an app that w…",
+    "url": "https://deals.thenextweb.com/sales/headway-premium-lifetime-subscription-2?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp2.stackassets.com/61250580eec99ecc7233bcaad018b17516d51bf1/store/35d02dd5feb5b559a7b844202c1e3d5e775d8aadc679b36f3c9d00439fc3/sale_318822_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Are you ready to take your reading to the next level? It's time to get personal with your reading.\r\nHeadway is an app that will help you develop the most powerful learning habits and make sure you're… [+1762 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "Matt's Flights Premium Plan (Lifetime Subscription) - Save up to 90% on Domestic & International flights for $89",
+    "description": "Expires August 25, 2123 07:00 PST\n\n\n\n\n Buy now and get 95% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nCountless people are consumed by wanderlust but just can't afford to travel as much as they'd like. If you're one of them, here's a l…",
+    "url": "https://deals.thenextweb.com/sales/matt-s-flights-premium-plan-lifetime-subscription-save-up-to-90-on-domestic-international-flights?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp1.stackassets.com/338b1f33eec3693e19fc9cdf728e133292852e07/store/4508bb1e54b3f1b30e58f18a53d14c5fa2b1ca202a698b3de4ae5d73b534/product_xxxxx_product_shots1.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Countless people are consumed by wanderlust but just can't afford to travel as much as they'd like. If you're one of them, here's a little secret: Airlines make mistakes. You can take advantage and g… [+1569 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "The Complete Resoume AI Assistant Resumé Writer: Lifetime Subscription for $39",
+    "description": "Expires August 25, 2123 23:59 PST\n\n\n\n\n Buy now and get 77% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nResoume is an easy-to-use resume, portfolio, and cover letter builder that helps you create beautifully designed, ATS-ready d…",
+    "url": "https://deals.thenextweb.com/sales/the-complete-resoume-ai-assistant-resume-writer-lifetime-subscription?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp0.stackassets.com/b13aed641aa2d02f16faab4438539aed0aaef2c9/store/64bc12420fe52ccd8c756af432913dccd477471236dccb62c9f53ab996d8/sale_312782_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Resoume is an easy-to-use resume, portfolio, and cover letter builder that helps you create beautifully designed, ATS-ready documents that let your skills shine. Are you worried that your resume will… [+2168 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "The Complete 2023 CompTIA Course Super Bundle by Iducate for $49",
+    "description": "Expires August 26, 2123 05:00 PST\n\n\n\n\n Buy now and get 74% off\n\n\n\n\n \n \n \n \n CompTIA IT Fundamentals+ (FC0-U61)\r\n\n \n \n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nThe CompTIA IT Fundamentals certification is a must-have for anyone who doesn’t have an IT background, but is con…",
+    "url": "https://deals.thenextweb.com/sales/the-complete-2023-comptia-course-super-bundle-by-iducate?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp2.stackassets.com/c39c31afc1dcebf67f2801a62435ab1d524c7d6b/store/509a55dae7ba0bbbabc465b0ce19948c03b99c27a0d8e52151522a06c514/sale_317215_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "The CompTIA IT Fundamentals certification is a must-have for anyone who doesnt have an IT background, but is considering a career in the IT industry. Its also ideal for marketing, sales and operation… [+1510 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "BulletVPN: Lifetime Subscription for $77",
+    "description": "Expires August 26, 2123 06:59 PST\n\n\n\n\n Buy now and get 75% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nEnhance your browsing, content viewing, and gaming experience with BulletVPN. BulletVPN servers provide a reliable and secure…",
+    "url": "https://deals.thenextweb.com/sales/bulletvpn-lifetime-subscription?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp3.stackassets.com/b82d8e1e90b8ecb3dedac4be84ac1acda363135e/store/a3d23e53256b7f7733b6b21b3844e70c5f6b55866acd9da44d88b4af957a/sale_21449_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Enhance your browsing, content viewing, and gaming experience with BulletVPN. BulletVPN servers provide a reliable and secure service to protect your traffic from eavesdroppers at home or while on th… [+1448 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "The Complete 2023 Cybersecurity Developer & IT Skills Bundle for $69",
+    "description": "Expires August 26, 2123 06:00 PST\n\n\n\n\n Buy now and get 94% off\n\n\n\n\n \n \n \n \n Microsoft Azure Security Technologies (AZ-500)\r\n\n \n \n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nThis course offers two primary services: identity management and authentication. You can use Azure AD…",
+    "url": "https://deals.thenextweb.com/sales/the-complete-2023-cybersecurity-developer-it-skills-bundle?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp2.stackassets.com/7b72bed9a76225053d8b7a448e647d770819b459/store/e79bd583cac155d179ef81a0a2195777cfb2c9ff12fe0a2b53e9659fca83/sale_317227_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "iCollegeEstablished in 2012, iducate (formerly iCollege) is a pioneering provider of comprehensive online IT training services. With a repertoire that spans across multiple IT vendor-specific certifi… [+975 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "iBrave Cloud Web Hosting: Lifetime Subscription for $99",
+    "description": "Expires August 25, 2123 22:00 PST\n\n\n\n\n Buy now and get 88% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nIf you're doing anything online, then you need web hosting. Normally hosting costs hundreds to thousands of dollars a year. B…",
+    "url": "https://deals.thenextweb.com/sales/ibrave-cloud-web-hosting-lifetime-subscription-2?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp3.stackassets.com/2a03d80cc38aba8c8ce39344fe7b3d2e8a781692/store/2709663e0d361b9454d80ba860dead9058b1cda51eb05ef1a1f1fde14cd3/sale_293370_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "If you're doing anything online, then you need web hosting. Normally hosting costs hundreds to thousands of dollars a year. But iBrave Hosting is changing that by making the best web hosting technolo… [+2182 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "Skoove Premium Piano Lessons: Lifetime Subscription for $149",
+    "description": "Expires August 26, 2123 05:00 PST\n\n\n\n\n Buy now and get 50% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nExplore the magic of learning piano and discover your own little musical getaway. Join over 1 million people enjoying the interactive…",
+    "url": "https://deals.thenextweb.com/sales/skoove-premium-piano-lessons-lifetime-subscription?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp3.stackassets.com/4131a4767150963161ce413ea0c1383ef7234fdd/store/99be9ac5d4790d848542318b449e2c89cf68f0a3a212d790e11b0a1e91b6/product_323511_product_shots1.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Explore the magic of learning piano and discover your own little musical getaway. Join over 1 million people enjoying the interactive piano and keyboard lessons for beginners, intermediate and advanc… [+2694 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "Taskio: The Ultimate AI Productivity Tool: Lifetime Subscription for $49",
+    "description": "Expires August 25, 2123 23:59 PST\n\n\n\n\n Buy now and get 90% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nIntroducing Taskio, the ultimate AI productivity tool that will revolutionize the way you work. With Taskio, you can automate…",
+    "url": "https://deals.thenextweb.com/sales/taskio-the-ultimate-ai-productivity-tool-lifetime-subscription-2?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp3.stackassets.com/e4903bc085832eaadece8dda37720c7413021aa1/store/3e5390d7ec801676761465760061237635018b781feb403afad644b53953/sale_322439_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Introducing Taskio, the ultimate AI productivity tool that will revolutionize the way you work. With Taskio, you can automate a huge number of tasks, generate content, conduct research, and much more… [+1702 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": null,
+    "title": "8-in-1 MagLight Mini Super-Bright Utility Flashlight for $21",
+    "description": "Expires August 26, 2123 06:00 PST\n\n\n\n\n Buy now and get 26% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nStylish, ultra-portable, rechargeable, and multi-powered—choose any mode for any situation. This mini flashlight is super bri…",
+    "url": "https://deals.thenextweb.com/sales/8-in-1-maglight-mini-super-bright-utility-flashlight-3?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+    "urlToImage": "https://cdnp1.stackassets.com/31236d23aea4f93a845ed2d49216859cda6c4162/store/7683faa0dc1c6d276c1ed56e2306eabf5f7ae3b6a78409e53e0bfa4e7450/sale_xxxxx_primary_image.jpg",
+    "publishedAt": "2023-08-25T07:00:00Z",
+    "content": "Stylish, ultra-portable, rechargeable, and multi-poweredchoose any mode for any situation. This mini flashlight is super bright (800 lumens illumination at max) with 4 modes of brightness adjustabili… [+1318 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Connie Loizos",
+    "title": "This venture-backed startup has quietly bought more than 80 mom-and-pop shops | TechCrunch",
+    "description": "Teamshares is a low-flying, Brooklyn-based startup with big ambitions to capitalize on an opportunity in plain sight: that of small businesses without a",
+    "url": "https://techcrunch.com/2023/08/24/this-venture-backed-startup-has-quietly-bought-more-than-80-mom-and-pop-shops/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-23-at-7.17.44-PM.png?resize=1200,1087",
+    "publishedAt": "2023-08-25T05:50:48Z",
+    "content": "Teamshares is a low-flying, Brooklyn-based startup with big ambitions to capitalize on an opportunity in plain sight: that of small businesses without a succession plan.\r\nIt’s not a small market. Acc… [+9601 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Taylor Hatmaker",
+    "title": "Former President Trump returns to Twitter, now X, with his mugshot",
+    "description": "Former President Trump tweeted for the first time in more than two years on Thursday night, breaking a long silence on the platform, now known as X, that persisted into Elon Musk’s chaotic takeover. Trump’s first tweet since January 8, 2021 came after he was …",
+    "url": "https://techcrunch.com/2023/08/24/former-president-trump-returns-to-twitter-now-x-with-his-mugshot/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1636908790.jpg?resize=1200,790",
+    "publishedAt": "2023-08-25T04:53:18Z",
+    "content": "Former President Trump tweeted for the first time in more than two years on Thursday night, breaking a long silence on the platform, now known as X, that persisted into Elon Musk’s chaotic takeover.\r… [+2015 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Morgan Sung",
+    "title": "Reddit launches “Mod Helper Program” and moderator support updates amid sitewide discontent  | TechCrunch",
+    "description": "Reddit is launching the “Mod Helper Program” to reward moderators who offer helpful advice to other moderators, along with an updated moderator help Reddit is rolling out updates to its moderator support features, but has been slow to launch moderation tools …",
+    "url": "https://techcrunch.com/2023/08/24/reddit-mod-helper-program-update-moderation-protest/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/reddit.jpg?resize=1200,800",
+    "publishedAt": "2023-08-25T00:49:43Z",
+    "content": "Reddit is launching the Mod Helper Program to reward moderators who offer helpful advice to other moderators, along with an updated moderator help center. \r\nThe announcement comes amid growing discon… [+5500 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Ron Miller",
+    "title": "Nvidia is flying high thanks to AI | TechCrunch",
+    "description": "When Nvidia reported earnings this week with three-digit growth, it put extra pressure on the company to continue performing at a high level.",
+    "url": "https://techcrunch.com/2023/08/24/nvidia-earnings-flying-high/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1598978057.jpg?w=1024",
+    "publishedAt": "2023-08-24T21:08:10Z",
+    "content": "When Nvidia announcedeye-popping earnings on Wednesday with three-digit year-over-year growth, it was easy to get caught up in the excitement. The company brought in $13.5 billion for the quarter, up… [+3624 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Devin Coldewey",
+    "title": "You can finally buy Lego's Braille Bricks | TechCrunch",
+    "description": "Lego made its Braille Blocks, a learning toy for children with visual impairments available for purchase by anyone who wants them.",
+    "url": "https://techcrunch.com/2023/08/24/you-can-finally-buy-legos-braille-bricks/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/lego-braille-2.jpg?resize=1200,822",
+    "publishedAt": "2023-08-24T20:26:02Z",
+    "content": "Building with Lego bricks has stayed a formative and important practice for kids around the world, partly because it’s so easily enjoyed by anyone, regardless of location, language, or ability. Now t… [+1909 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Lauren Simonds",
+    "title": "Last chance to host an After Hours event at TechCrunch Disrupt 2023 | TechCrunch",
+    "description": "Hurry! Submit your idea for an After Hours event at TechCrunch Disrupt 2023. Don’t miss your chance to connect and have fun with your community!",
+    "url": "https://techcrunch.com/2023/08/24/last-chance-to-host-an-after-hours-event-at-techcrunch-disrupt-2023/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1047707680.jpg?w=705",
+    "publishedAt": "2023-08-24T20:00:14Z",
+    "content": "Listen up, party people! Youre rapidly running out of time to host your own After Hours Event at TechCrunch Disrupt 2023, which runs September 1921 in San Francisco. Build your brand, connect with yo… [+2094 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Tim De Chant",
+    "title": "Advanced Ionics nets $12.5M Series A to inject green hydrogen into heavy industry | TechCrunch",
+    "description": "Advanced Ionics hopes its more efficient approach to using electrolysis will give it an unfair advantage in producing hydrogen.",
+    "url": "https://techcrunch.com/2023/08/24/advanced-ionics-hydrogen-series-a/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-872226042.jpg?resize=1200,800",
+    "publishedAt": "2023-08-24T19:47:44Z",
+    "content": "When people talk about hydrogen these days, they almost always mention transportation. I get it: people are used to filling up tanks, not charging cars. But from a practical perspective, transportati… [+1666 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Aisha Malik",
+    "title": "Shein inks deal with Forever 21 as it looks to boost its reach | TechCrunch",
+    "description": "Shein and Forever 21 have entered into a partnership that will give both brands new ways to reach customers, the retailers announced on Thursday. As part",
+    "url": "https://techcrunch.com/2023/08/24/shein-inks-deal-with-forever-21-as-it-looks-to-boost-its-reach/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1129009719.jpg?resize=1200,798",
+    "publishedAt": "2023-08-24T19:05:18Z",
+    "content": "Shein and Forever 21 have entered into a partnership that will give both brands new ways to reach customers, the retailersannounced on Thursday. As part of the partnership, Shein will acquire around … [+2903 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Jacquelyn Melinek",
+    "title": "Friend.tech hype grows, Tornado Cash founders go for a spin and FBI’s monitoring North Korean hackers",
+    "description": "There was also a lot of talk around Tornado Cash as the two founders behind the crypto mixer were charged on Wednesday by U.S. federal agencies.  For this...",
+    "url": "https://techcrunch.com/2023/08/24/friend-tech-hype-grows-tornado-cash-founders-go-for-a-spin-and-fbis-monitoring-north-korean-hackers/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/iDLG.05DgWeqkPzWq4R.Iw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/d930cee04a3b15b418913aec502b6a39",
+    "publishedAt": "2023-08-24T19:00:34Z",
+    "content": "Welcome back to Chain Reaction.\r\nTo get a roundup of TechCrunchs biggest and most important crypto stories delivered to your inbox every Thursday at 12 p.m. PT, subscribe here. Follow me on Twitter @… [+3154 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Aisha Malik",
+    "title": "Meta is shutting down Messenger Lite for Android in September | TechCrunch",
+    "description": "Meta is shutting down Messenger Lite, its lightweight stripped-down version of Messenger, the company confirmed to TechCrunch.",
+    "url": "https://techcrunch.com/2023/08/24/meta-is-shutting-down-messenger-lite-for-android-in-september/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/Meta-e1657103014362.jpg?resize=1200,675",
+    "publishedAt": "2023-08-24T18:16:00Z",
+    "content": "Meta is shutting down Messenger Lite, its lightweight stripped-down version of Messenger, the company confirmed to TechCrunch. Users of the app are starting to see a message that advises them to “use… [+1488 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Taylor Hatmaker",
+    "title": "No Man's Sky updates are going strong with Starfield around the corner | TechCrunch",
+    "description": "The latest No Man's Sky update, Echoes, introduces a new robotic alien civilization, better ship-to-ship combat and more.",
+    "url": "https://techcrunch.com/2023/08/24/no-mans-sky-updates-are-going-strong-with-starfield-around-the-corner/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/no-mans-sky-autophage.jpg?w=1040",
+    "publishedAt": "2023-08-24T18:08:24Z",
+    "content": "With a big budget space exploration game debuting in days, indie spacefaring mainstay No Man’s Sky continues to deepen its own world with no signs of slowing down.\r\nNo Man’s Sky is one of gaming’s bi… [+3942 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": "Thomas Macaulay",
+    "title": "European space telescopes spot tiny jets that could power the solar wind",
+    "description": "A spacecraft has detected tiny jets that could be the elusive source of the sun’s solar wind. The discovery was made by the European Space Agency’s (ESA) Solar Orbiter. According to ESA, the satellite is the most complex scientific lab ever sent to the sun. U…",
+    "url": "https://thenextweb.com/news/esa-solar-orbiter-sports-solar-wind-source",
+    "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-1-3.jpg&signature=82d69129e8337f4060cbd24c27564e4f",
+    "publishedAt": "2023-08-24T18:00:53Z",
+    "content": "A spacecraft has detected tiny jets that could be the elusive source of the suns solar wind.\r\nThe discovery was made by the European Space Agencys (ESA) Solar Orbiter. According to ESA, the satellite… [+2115 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Brian Heater",
+    "title": "Astropad’s latest is a combo iPad screen protector/Apple Pencil Tip",
+    "description": "One thing you can definitely say about Astropad: they didn’t let a good old fashioned Sherlocking keep them down. Over the years, new Apple features have scorched the earth of many a startup, and while the introduction of Sidecar for macOS certainly knocked t…",
+    "url": "https://techcrunch.com/2023/08/24/astropads-latest-is-a-combo-ipad-screen-protect-apple-pencil-tip/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/HEROcompressed.jpg?resize=1200,875",
+    "publishedAt": "2023-08-24T18:00:22Z",
+    "content": "One thing you can definitely say about Astropad: they didnt let a good old fashioned Sherlocking keep them down. Over the years, new Apple features have scorched the earth of many a startup, and whil… [+1343 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Natasha Lomas",
+    "title": "Social media giants urged to tackle data-scraping privacy risks | TechCrunch",
+    "description": "A joint statement signed by regulators at a dozen international privacy watchdogs, including the UK's ICO, Canada's OPC and Hong Kong's OPCPD, has urged A joint statement signed by regulators at a dozen international privacy watchdogs has urged mainstream soc…",
+    "url": "https://techcrunch.com/2023/08/24/data-scraping-privacy-risks-joint-statement/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1301630136.jpg?resize=1200,800",
+    "publishedAt": "2023-08-24T17:21:04Z",
+    "content": "A joint statement signed by regulators at a dozen international privacy watchdogs, including the UK’s ICO, Canada’s OPC and Hong Kong’s OPCPD, has urged mainstream social media platforms to protect u… [+9140 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Sarah Perez",
+    "title": "Starbucks is experimenting with 'scanless checkout' for drive-through users | TechCrunch",
+    "description": "Starbucks is testing a new way for customers to pay for their favorite beverages -- without even having to pull out their phone. The company confirmed an",
+    "url": "https://techcrunch.com/2023/08/24/starbucks-is-experimenting-with-scanless-checkout-for-drive-through-users/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1420597584.jpg?resize=1200,800",
+    "publishedAt": "2023-08-24T17:17:18Z",
+    "content": "Starbucks is testing a new way for customers to pay for their favorite beverages — without even having to pull out their phone. The company confirmed an internal test of “scanless pay,” a new contact… [+3795 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Lauren Forristal",
+    "title": "Amazon brings new AI-driven features to Thursday Night Football | TechCrunch",
+    "description": "As Amazon’s Prime Video gears up for its second year as the exclusive rights holder to NFL’s Thursday Night Football (TNF), the streaming service hopes to Prime Video hopes to give TNF fans a more enhanced viewing experience with a slew of new AI-driven featu…",
+    "url": "https://techcrunch.com/2023/08/24/amazon-prime-video-ai-features-thursday-night-football/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/Open-Reciever.png?resize=1200,779",
+    "publishedAt": "2023-08-24T16:36:49Z",
+    "content": "As Amazons Prime Video gears up for its second year as the exclusive rights holder to NFLs Thursday Night Football (TNF), the streaming service hopes to give fans a more enhanced viewing experience w… [+7428 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Brian Heater",
+    "title": "Sony is buying gaming headphone maker, Audeze | TechCrunch",
+    "description": "Sony Interactive Entertainment (basically the PlayStation wing) today announced plans to acquire Audeze.",
+    "url": "https://techcrunch.com/2023/08/24/sony-is-buying-gaming-headphone-maker-audeze/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/Screenshot-2023-08-24-at-12.23.09 PM.jpg?resize=1200,608",
+    "publishedAt": "2023-08-24T16:27:11Z",
+    "content": "Sony Interactive Entertainment (basically the PlayStation wing) today announced plans to acquire Audeze, the company has confirmed with TechCrunch. The Orange Country, CA-based firm is best known for… [+1721 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Amanda Silberling",
+    "title": "X (Twitter) blocked links to a Democratic political tool for a week",
+    "description": "Formerly known as Twitter, the social platform X temporarily blocked links to EveryAction’s NGP VAN, possibly the most popular political organizing software for Democratic and progressive campaigns. For a week, links to volunteer event signups, donation porta…",
+    "url": "https://techcrunch.com/2023/08/24/x-twitter-blocked-links-to-a-democratic-political-tool-for-a-week/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-musk-ad-ban.jpg?resize=1200,675",
+    "publishedAt": "2023-08-24T16:21:24Z",
+    "content": "Formerly known as Twitter, the social platform X temporarily blocked links to EveryAction’s NGP VAN, possibly the most popular political organizing software for Democratic and progressive campaigns.\r… [+3420 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Sarah Perez",
+    "title": "X tries to lure back advertisers with new $250 ad credit",
+    "description": "X, the company formerly known as Twitter, has a new initiative aimed at luring smaller businesses to advertise on its platform. The company announced on Wednesday it would offer a one-time ad credit of $250 to select businesses when they spend $1,000 or more …",
+    "url": "https://techcrunch.com/2023/08/24/x-tries-to-lure-back-advertisers-with-new-250-ad-credit/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter.jpg?resize=1200,550",
+    "publishedAt": "2023-08-24T16:18:23Z",
+    "content": "X, the company formerly known as Twitter, has a new initiative aimed at luring smaller businesses to advertise on its platform. The company announced on Wednesday it would offer a one-time ad credit … [+2401 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Frederic Lardinois",
+    "title": "How Google Cloud learned to embrace its partner ecosystem | TechCrunch",
+    "description": "Google Cloud's annual Next event is happening in San Francisco next week (and we'll be on the ground to cover all of the announcements), but ahead of the",
+    "url": "https://techcrunch.com/2023/08/24/how-google-cloud-learned-to-embrace-its-partner-ecosystem/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1337404332-1.jpg?resize=1200,802",
+    "publishedAt": "2023-08-24T16:00:57Z",
+    "content": "Google Cloud’s annual Next event is happening in San Francisco next week (and we’ll be on the ground to cover all of the announcements), but ahead of the event, Google Cloud today put a spotlight on … [+6107 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Jacquelyn Melinek",
+    "title": "Vessel Capital emerges from stealth with $55M fund focused on web3 infrastructure and apps | TechCrunch",
+    "description": "Vessel Capital, a web3 venture fund, has emerged from stealth with $55 million to invest in infrastructure and applications.",
+    "url": "https://techcrunch.com/2023/08/24/vessel-capital-emerges-from-stealth-with-55m-fund-focused-on-web3-infrastructure-and-apps/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1302801668.jpg?resize=1200,900",
+    "publishedAt": "2023-08-24T16:00:09Z",
+    "content": "Vessel Capital, a web3 venture fund, has emerged from stealth with $55 million in assets under management to invest in infrastructure and applications, the firm exclusively told TechCrunch.\r\nFounded … [+2270 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kyle Wiggers",
+    "title": "Modular secures $100M to build tools to optimize and create AI models | TechCrunch",
+    "description": "Modular, a startup developing a set of tools to accelerate and create AI models, has raised $100 million in a funding round.",
+    "url": "https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?resize=1200,675",
+    "publishedAt": "2023-08-24T15:45:24Z",
+    "content": "Modular, a startup creating a platform for developing and optimizing AI systems, has raised $100 million in a funding round led by General Catalyst with participation from GV (Google Ventures), SV An… [+6012 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Alex Wilhelm",
+    "title": "How and when to charge for adding AI to your enterprise software | TechCrunch",
+    "description": "From pricing new add-ons outright and raising prices for bundled offerings to simply getting an edge in negotiations, AI opens up a host of pricing strategies.",
+    "url": "https://techcrunch.com/2023/08/24/how-and-when-to-charge-for-adding-ai-to-your-enterprise-software/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-86298178-e1692889823247.jpg?resize=1200,822",
+    "publishedAt": "2023-08-24T15:23:12Z",
+    "content": "Nvidia’s blockbuster quarterly results make it plain that the race to build generative AI products is well and truly afoot. The GPU giant crushed earnings expectations in the second quarter and forec… [+2361 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Neesha A. Tambe",
+    "title": "Introducing the Startup Battlefield 200 companies at TechCrunch Disrupt 2023 | TechCrunch",
+    "description": "After combing through thousands of startups from around the world, TechCrunch is thrilled to announce the 2023 Startup Battlefield 200!",
+    "url": "https://techcrunch.com/2023/08/24/introducing-the-startup-battlefield-200-companies-at-techcrunch-disrupt-2023/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/SUB200-General-Article-Image-Header-1920x1080-2.png?resize=1200,675",
+    "publishedAt": "2023-08-24T15:00:36Z",
+    "content": "After combing through thousands of startups from around the world, TechCrunch is thrilled to announce the 2023 Startup Battlefield 200 our invitation-only cohort of game-changing early-stage startups… [+1626 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kyle Wiggers",
+    "title": "OpenAI partners with Scale AI to allow companies to fine-tune GPT-3.5 | TechCrunch",
+    "description": "OpenAI has partnered with Scale AI, the data labeling startup, to enable fine-tuning GPT-3.5 models with Scale's tools.",
+    "url": "https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/OpenAI-logo-symmetry.jpg?resize=1200,675",
+    "publishedAt": "2023-08-24T15:00:15Z",
+    "content": "OpenAI, the AI startup behind the viral AI-powered chatbot ChatGPT, plans to partner with third party vendors to make it easier for developers — specifically enterprises — to fine-tune its AI models … [+2870 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": "Ioanna Lykiardopoulou",
+    "title": "Here’s how the EU’s Digital Services Act changes the content rules for big tech",
+    "description": "The EU’s latest crackdown on big tech begins before the end of the week. Starting on Friday, a total of 19 major companies must adhere to the sweeping rules of the Digital Services Act (DSA). Essentially, the DSA is a landmark content moderation rulebook, des…",
+    "url": "https://thenextweb.com/news/eu-digital-services-act-changes-content-rules-for-big-tech",
+    "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-13.jpg&signature=c496d1e742c74602d6e4a80ac483e660",
+    "publishedAt": "2023-08-24T14:49:40Z",
+    "content": "The EUs latest crackdown on big tech begins before the end of the week. Starting on Friday, a total of 19 major companies must adhere to the sweeping rules of the Digital Services Act (DSA).\r\nEssenti… [+5890 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Alex Wilhelm and Mary Ann Azevedo",
+    "title": "Better.com's stock tanks after SPAC combination brings it to the public markets",
+    "description": "Shares of Better.com are getting hammered into the ground Thursday morning after the digital mortgage company completed its long-delayed SPAC merger and...",
+    "url": "https://techcrunch.com/2023/08/24/better-coms-stock-tanks-after-spac-combination-brings-it-to-the-public-markets/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mrCgxambnxqYThMzRjDtIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTI-/https://media.zenfs.com/en/techcrunch_350/402c1f9aba6f3d3e7a545ec2451643a8",
+    "publishedAt": "2023-08-24T14:30:41Z",
+    "content": "Shares of Better.com are getting hammered into the ground Thursday morning after the digital mortgage company completed its long-delayed SPAC merger and began to trade as a public company for the fir… [+4063 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Tim De Chant",
+    "title": "7 founders and CEOs discuss fusion power’s most pressing challenges | TechCrunch",
+    "description": "Capital is pouring into the sector at an opportune time, as fusion power startups can now make rapid gains thanks to a convergence of factors.",
+    "url": "https://techcrunch.com/2023/08/24/fusion-power-challenges-founder-survey/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/nuclear-fusion-pt1.jpg?resize=1200,675",
+    "publishedAt": "2023-08-24T14:07:18Z",
+    "content": "The hype around fusion power is real. Researchers at the National Ignition Facility achieved net-positive controlled nuclear fusion in December 2022, a milestone thats been decades in the making. The… [+7978 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Mary Ann Azevedo",
+    "title": "Hustle Fund doubles down on its mission to build the ‘YC of angel investing’ | TechCrunch",
+    "description": "To date, Hustle Fund's Angel Squad has invested $23 million via special purpose vehicles (SPVs) into 65 deals.",
+    "url": "https://techcrunch.com/2023/08/24/hustle-fund-doubles-down-on-its-mission-to-build-the-yc-of-angel-investing/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1439626598.jpg?resize=1200,800",
+    "publishedAt": "2023-08-24T14:03:48Z",
+    "content": "What do a chef in Turkey, a pilot in Australia, a physical therapist in Oregon, a submarine operator in the military and a DJ in the Bay Area all have in common?\r\nThey are all members of Hustle Funds… [+4087 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kyle Wiggers",
+    "title": "Hugging Face raises $235M from investors including Salesforce and Nvidia | TechCrunch",
+    "description": "Hugging Face, a platform for developing AI models and tooling, has raised $235 million in a venture funding round.",
+    "url": "https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/11f5fd43-3e13-4313-a003-9d36a81e3fde.png?resize=1200,602",
+    "publishedAt": "2023-08-24T14:00:56Z",
+    "content": "As first reported by The Information, then seemingly verified by Salesforce CEO Marc Benioff on X (formerly known as Twitter), AI startup Hugging Face has raised $235 million in a Series D funding ro… [+4493 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kyle Wiggers",
+    "title": "Meta releases Code Llama, a code-generating AI model | TechCrunch",
+    "description": "Meta has released an open source machine learning model, Code Llama, that can be instructed to generate and debug code.",
+    "url": "https://techcrunch.com/2023/08/24/meta-releases-code-llama-a-code-generating-ai-model/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/meta-housing-targeting.jpg?resize=1200,675",
+    "publishedAt": "2023-08-24T13:31:02Z",
+    "content": "Meta, intent on making a splash in a generative AI space rife with competition, is on something of an open source tear.\r\nFollowing the release of AI models for generating text, translating languages … [+6257 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Sarah Perez",
+    "title": "Max adds 24/7 live streaming news with launch of 'CNN Max' in the U.S. | TechCrunch",
+    "description": "Max, the streaming service previously known as HBO Max, announced this morning it's adding 24/7 live streaming news with the addition of \"CNN Max,\"",
+    "url": "https://techcrunch.com/2023/08/24/max-adds-24-7-live-streaming-news-with-launch-of-cnn-max-in-the-u-s/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/Screen-Shot-2023-04-12-at-1.09.37-PM.png?resize=1200,578",
+    "publishedAt": "2023-08-24T13:30:18Z",
+    "content": "Max, the streaming service previously known as HBO Max, announced this morning it’s adding 24/7 live streaming news with the addition of “CNN Max,” starting on September 27 in the U.S. The feature, w… [+3391 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Ron Miller",
+    "title": "Former head of growth at Slack is building a growth-tracking platform for everyone | TechCrunch",
+    "description": "Panobi, an early stage startup from the former head of growth at Slack, is building a platform to track and collaborate on growth metrics.",
+    "url": "https://techcrunch.com/2023/08/24/former-head-of-growth-at-slack-is-building-a-growth-tracking-platform-for-everyone/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-646866984.jpg?resize=1200,771",
+    "publishedAt": "2023-08-24T13:20:03Z",
+    "content": "When Panobi co-founder Merci Grace began running growth at Slack in 2015, she helped grow the user base from 50,000 to over 3 million in just a couple of years. Along the way, she learned some valuab… [+3314 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Catherine Shu",
+    "title": "Weekday puts the spotlight on job references | TechCrunch",
+    "description": "Job references are an important part of hiring the right person, especially for remote positions. But the founders of Weekday say that over 95% of Job references are an important part of hiring the right person, especially for remote positions. But the founde…",
+    "url": "https://techcrunch.com/2023/08/24/weekday/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1151746484.jpg?resize=1200,800",
+    "publishedAt": "2023-08-24T13:01:59Z",
+    "content": "Job references are an important part of hiring the right person, especially for remote positions. But the founders of Weekday say that over 95% of recruiters dont seek referrals from previous co-work… [+3974 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Haje Jan Kamps",
+    "title": "5 trends in VC funding for pre-seed startups | TechCrunch",
+    "description": "Compared to H1 2022, this year, VCs are spending 12% less time looking at pitch decks, but founders haven’t slowed down: 16% more decks were sent out.",
+    "url": "https://techcrunch.com/2023/08/24/vc-trends-h2-2023/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1393673728.jpg?resize=1200,800",
+    "publishedAt": "2023-08-24T13:01:48Z",
+    "content": "Silicon Valley’s image as a shiny, money-spewing beacon on a hill of boundless opportunity has gotten a bit of a readjustment over the past year. The fundraising landscape has been utterly brutal. Ye… [+1949 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Catherine Shu",
+    "title": "Rocketium scales and analyzes massive marketing campaigns | TechCrunch",
+    "description": "Large companies often have to produce marketing campaigns with thousands of pieces of individual content, including email and social media ads. This means Large companies often have to produce marketing campaigns with thousands of pieces of individual content…",
+    "url": "https://techcrunch.com/2023/08/24/rocketium/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1130023029-1.jpg?resize=1200,785",
+    "publishedAt": "2023-08-24T13:01:26Z",
+    "content": "Large companies often have to produce marketing campaigns with thousands of pieces of individual content, including email and social media ads. This means creative teams have to execute ideas rapidly… [+3470 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kate Park",
+    "title": "a16z-backed AI video generator Irreverent Labs raises funding from Samsung Next  | TechCrunch",
+    "description": "Samsung Next invests in Irreverent Labs, a Bellevue, Washington-based startup developing AI technology that enables anyone to create a video.",
+    "url": "https://techcrunch.com/2023/08/24/a16z-backed-ai-video-generator-irreverent-labs-raises-funding-from-samsung-next/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/Irreverent-Labs.jpg?resize=1200,773",
+    "publishedAt": "2023-08-24T13:01:03Z",
+    "content": "Generative artificial intelligence, used to create content from text to images to videos, is still on the rise. Big Tech and startups across the globe are racing to compete and launch their own AI-po… [+3643 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kyle Wiggers",
+    "title": "Ikigai lands $25M investment to bring generative AI to tabular data | TechCrunch",
+    "description": "Ikigai, a startup co-founded by two MIT scientists, has raised $25 million in a funding round to expand its reach.",
+    "url": "https://techcrunch.com/2023/08/24/ikigai-lands-25m-investment-to-bring-generative-ai-to-tabular-data/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-467563014.jpg?resize=1200,686",
+    "publishedAt": "2023-08-24T13:00:48Z",
+    "content": "Organizations are awash in data, but struggle with a host of challenges to actually use, organize and analyze that data. According to one estimate, companies will store 100 zettabytes of data in the … [+3670 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": "Linnea Ahlgren",
+    "title": "Germany doubles funds for AI ‘made in Europe’",
+    "description": "On Wednesday, the German government announced that it would nearly double its funding for artificial intelligence research. The money pledged towards the development of AI systems now amounts to nearly €1bn, which is still far behind the $3.3bn (€3.04bn) in p…",
+    "url": "https://thenextweb.com/news/germany-doubles-funds-ai-research-technological-sovereignty",
+    "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FBerlinrobot-e1692879365285.jpg&signature=eb1925016e19fde03d0a6b5b3f496761",
+    "publishedAt": "2023-08-24T12:31:29Z",
+    "content": "On Wednesday, the German government announced that it would nearly double its funding for artificial intelligence research. The money pledged towards the development of AI systems now amounts to near… [+2906 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Brian Heater",
+    "title": "Walmart is adding Wing drone deliveries to limited Superstores this year | TechCrunch",
+    "description": "Alphabet owned Wing is expanding drone deliveries to a pair of Texas-area Walmart Superstores later this year.",
+    "url": "https://techcrunch.com/2023/08/24/walmart-is-adding-wing-drone-deliveries-to-limited-superstores-this-year/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/wing.jpeg?resize=1200,800",
+    "publishedAt": "2023-08-24T12:00:35Z",
+    "content": "Wing is expanding drone deliveries to a pair of Texas-area Walmart Superstores later this year. The Alphabet-owned drone firm says the two offerings will cover a combined 60,000 homes in the greater … [+2095 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kyle Wiggers",
+    "title": "Cypago, which aims to automate compliance and governance for companies, raises $13M | TechCrunch",
+    "description": "Cypago, a company focused on governance, compliance and risk automation, has raised $13 million in a venture funding round.",
+    "url": "https://techcrunch.com/2023/08/24/cypago-compliance-governance-startup-raises-13m/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1134831592.jpg?resize=1200,800",
+    "publishedAt": "2023-08-24T11:01:38Z",
+    "content": "There’s a growing number of cybersecurity regulations designed to keep business and customer data protected. In 2022 alone, over 40 U.S. states introduced 250 bills focused on cybersecurity, accordin… [+4637 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Natasha Lomas",
+    "title": "Google to go further on ads transparency and data access for researchers as EU digital rulebook reboot kicks in",
+    "description": "Google has said it will increase how much information it provides about ads targeted at users in the European Union. It is also expanding data access to Google has said it will increase how much information it provides about ads targeted at users in the Europ…",
+    "url": "https://techcrunch.com/2023/08/24/google-dsa/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/05/524861120.jpg?resize=1200,800",
+    "publishedAt": "2023-08-24T10:49:51Z",
+    "content": "Google has said it will increase how much information it provides about ads targeted at users in the European Union. It is also expanding data access to third party researchers studying systemic cont… [+7831 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": "Ioanna Lykiardopoulou",
+    "title": "Getir shuts down Amsterdam dark stores, withdraws from 6 Dutch cities",
+    "description": "There seems to be no end in sight for Getir’s woes in Europe. Following exits from multiple markets, the rapid grocery delivery platform is now reducing operations in the Netherlands as well. The Turkish startup is set to close four dark stores in Amsterdam, …",
+    "url": "https://thenextweb.com/news/getir-shuts-amsterdam-dark-stores-withdraws-dutch-cities",
+    "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-3-11.jpg&signature=01a135e05b853a78b83268994e4f2cbf",
+    "publishedAt": "2023-08-24T09:42:35Z",
+    "content": "There seems to be no end in sight for Getirs woes in Europe. Following exits from multiple markets, the rapid grocery delivery platform is now reducing operations in the Netherlands as well.\r\nThe Tur… [+1728 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Manish Singh",
+    "title": "Reliance tests sound box payment system amid financial services push",
+    "description": "India's Paytm introduced the innovative sound box, a pocket-sized speaker designed to instantly validate and announce successful payments to merchants...",
+    "url": "https://techcrunch.com/2023/08/24/reliance-tests-sound-box-payment-system-amid-financial-services-push/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZfaEqdj2ZvpLfjd2z6qtxg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/f6fd6c3d8ce601bf08a3d47da98294fe",
+    "publishedAt": "2023-08-24T09:33:39Z",
+    "content": "India's Paytm introduced the innovative sound box, a pocket-sized speaker designed to instantly validate and announce successful payments to merchants. They have deployed million of these devices to … [+2369 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Mike Capps",
+    "title": "Making AI trustworthy: Can we overcome black-box hallucinations? | TechCrunch",
+    "description": "We all learned the importance of 'showing our work' in elementary school, and we can certainly demand that same rigor from AI.",
+    "url": "https://techcrunch.com/2023/08/24/making-ai-trustworthy-can-we-overcome-black-box-hallucinations/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-671264674.jpg?resize=1200,900",
+    "publishedAt": "2023-08-24T09:30:30Z",
+    "content": "Like most engineers, as a kid I could answer elementary school math problems by just filling in the answers.\r\nBut when I didnt show my work, my teachers would dock points; the right answer wasnt wort… [+2776 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kate Park",
+    "title": "Korea's internet giant Naver unveils generative AI services | TechCrunch",
+    "description": "South Korean internet search company Naver on Thursday rolled out its own generative artificial intelligence tool, HyperCLOVA X. The company's large Korean internet search giant Naver rolled out its own generative AI tool HyperCLOVA X that offers CLOVA X, a C…",
+    "url": "https://techcrunch.com/2023/08/24/koreas-internet-giant-naver-unveils-generative-ai-services/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/Nako-Sung-Naver-Cloud-Head-of-Technology-Hyperscale-AI.jpg?resize=1200,800",
+    "publishedAt": "2023-08-24T08:59:51Z",
+    "content": "South Korean internet search company Naver on Thursday rolled out its own generative artificial intelligence tool, HyperCLOVA X. The company’s large language model (LLM) offers services such as a Cha… [+2244 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Ivan Mehta",
+    "title": "Chrome is testing an option to enable bottom address bar on iOS | TechCrunch",
+    "description": "Google Chrome is testing an option to let users move the address bar (or Omnibox) to the bottom of the screen on iOS.",
+    "url": "https://techcrunch.com/2023/08/24/chrome-is-testing-an-option-to-enable-bottom-address-bar-on-ios/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1211180803.jpg?resize=1200,800",
+    "publishedAt": "2023-08-24T07:39:50Z",
+    "content": "Google Chrome is testing an option to let users move the address bar to the bottom of the screen on iOS. This comes nearly two years after Apple shifted Safari’s tab bar to the bottom with iOS 15.\r\nC… [+1160 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Ivan Mehta",
+    "title": "Amazon Luna app launches on LG smart TVs | TechCrunch",
+    "description": "LG is teaming up with Amazon to bring the Luna cloud-based game streaming service on its smart TVs.",
+    "url": "https://techcrunch.com/2023/08/23/amazon-luna-app-launches-on-lg-smart-tvs/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/LG-Amazon-Luna.jpeg?w=1100",
+    "publishedAt": "2023-08-24T04:43:25Z",
+    "content": "LG is teaming up with Amazon to bring the Amazon Luna cloud-based game streaming service on its smart TVs.\r\nAmazon announced on its blog that the Amazon Luna app is now available on LG’s smart TV mod… [+1152 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Catherine Shu",
+    "title": "Backed by Peak IV and Jungle, Neurowyzr puts the focus on brain health | TechCrunch",
+    "description": "The rate of dementia is expected to double every 20 years, but many tools for early detection, like MRI scans, are difficult for patients to access. The rate of dementia is expected to double every 20 years, but many tools for early detection, like MRI scans,…",
+    "url": "https://techcrunch.com/2023/08/23/neurowyzr/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/Neurowyzr-Digital-Brain-Function-Screen-in-action.png?resize=1200,1015",
+    "publishedAt": "2023-08-24T01:01:07Z",
+    "content": "The rate of dementia is expected to double every 20 years, but many tools for early detection, like MRI scans, are difficult for patients to access. Neurowyzr wants to help more people get brain heal… [+3565 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Sophie Alcorn",
+    "title": "Ask Sophie: What are the visa options for a startup founder with family?  | TechCrunch",
+    "description": "Here's another edition of “Ask Sophie,” the advice column that answers immigration-related questions about working at technology companies. “Your",
+    "url": "https://techcrunch.com/2023/08/23/ask-sophie-what-are-the-visa-options-for-a-startup-founder-with-family/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/01/dear-sophie-immigration-maze-3.jpg?w=1024",
+    "publishedAt": "2023-08-23T22:06:29Z",
+    "content": "More posts by this contributor\r\nHere’s another edition of Ask Sophie, the advice column that answers immigration-related questions about working at technology companies.\r\nYour questions are vital to … [+9413 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kirsten Korosec",
+    "title": "Nvidia's Q2 earnings prove it's the big winner in the generative AI boom | TechCrunch",
+    "description": "Nvidia proves there is money to be made — and lots of it — selling the picks and shovels of the generative AI boom.",
+    "url": "https://techcrunch.com/2023/08/23/nvidias-q2-earnings-prove-its-the-big-winner-in-the-generative-ai-boom/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/T-15882236-L.jpg?w=1200",
+    "publishedAt": "2023-08-23T21:50:35Z",
+    "content": "Nvidia’s second-quarter earnings, which were reported Wednesday after markets closed, prove there is money to be made and lots of it selling the picks and shovels of the generative AI boom.\r\nA new co… [+3043 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Devin Coldewey",
+    "title": "Epic's First Run offers 100% revenue share to game devs in exchange for exclusivity | TechCrunch",
+    "description": "First Run gives devs 100% of their game's sales in exchange for being an exclusive on Epic for 6 months. But is it really a good choice?",
+    "url": "https://techcrunch.com/2023/08/23/epics-first-run-offers-100-revenue-share-to-game-devs-in-exchange-for-exclusivity/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/epic-first-run.jpg?resize=1200,675",
+    "publishedAt": "2023-08-23T21:25:14Z",
+    "content": "Epic’s ongoing quest to dethrone Steam as the PC gaming storefront of note has taken a new turn with First Run, an option for developers to get 100% of their game’s sales revenue in exchange for bein… [+2788 chars]"
+    }
+    ]
+    }
