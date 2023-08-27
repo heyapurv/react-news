@@ -6,11 +6,11 @@ export class Newsitems extends Component {
     return (
     <div>
         <div className="card" style={{width: "18rem"}}>
-            <img src={nurl} className="card-img-top" alt="..."/>
+            <img src={nurl ? nurl:"https://www.livemint.com/lm-img/img/2023/08/25/600x338/32inch_tv_1692962182929_1692962183474.jpg"} className="card-img-top" alt="..."/>
             <div className="card-body">
                 <h5 className="card-title">{title}...</h5>
                 <p className="card-text">{description}...</p>
-                <a href={newsurl} target='_blank' className="btn btn-sm btn-primary">Read More</a>
+                <a href={newsurl} rel="noreferrer" target='_blank' className="btn btn-sm btn-secondary d-flex justify-content-center">Read More</a>
             </div>
         </div>
     </div>
